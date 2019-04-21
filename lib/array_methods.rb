@@ -13,8 +13,8 @@ array.reverse
 end
 
 def using_first(array)
-array = ["I", "wow"]
-array.sort
+array = ["wow", "arrays!"]
+array.first
 end
 
 def using_last(array)
